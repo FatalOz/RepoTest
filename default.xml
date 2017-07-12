@@ -4,7 +4,7 @@
       fetch="https://github.com/" />
   <default revision="refs/heads/master" remote="github" sync-j="8" />
 
-  <project path="one" name="FatalOz/FatalOz" remote="github" />
-  <project path="two" name="NealoHills/NealoHills" remote="github" />
+  <project path="eigen" name="powderluv/eigen" remote="github" />
+  <project path="OpenBlas" name="powderluv/OpenBLAS" remote="github" />
 
 </manifest>
